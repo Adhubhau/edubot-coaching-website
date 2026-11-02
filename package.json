@@ -1,0 +1,10 @@
+{
+  "name": "edubot-coaching-website",
+  "version": "1.0.0",
+  "description": "Premium coaching-class website template with a trilingual (EN/MR/HI) admission chatbot. Built by AB Studio and Advertise.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "AB Studio and Advertise"
+}
